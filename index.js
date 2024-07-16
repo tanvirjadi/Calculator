@@ -40,5 +40,6 @@ minus.addEventListener("click", function(){
 });
 
 ac.addEventListener("click", function(){
-    location.reload();
+    no1.value = "";
+    no2.value = "";
 });
